@@ -1,3 +1,4 @@
+[![View Synthetic skin lesion image generation using GANs on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://www.mathworks.com/matlabcentral/fileexchange/96752-synthetic-skin-lesion-image-generation-using-gans)
 # Synthetic skin lesion image generation using GANs
 This repository shows an example of how to use MATLAB to generate synthetic images of skin lesions.
 
