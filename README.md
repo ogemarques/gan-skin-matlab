@@ -18,10 +18,9 @@ The code is based on an [example using the flowers dataset available online](htt
 - [ ]  [Parallel Computing Toolbox](https://www.mathworks.com/products/parallel-computing.html) (only required for training using a GPU)
 ## Suggested steps
 1. Download or clone the repository.
-2. Unzip the `ISBI2016_ISIC_Part3_Training_Data.zip` file.
-3. Open MATLAB.
-4. Edit the contents of the `imageFolder` variable in the `skin_lesion_gan.mlx` file to reflect the path to your selected dataset. 
-5. Run the `skin_lesion_gan.mlx` script and inspect results.
+2. Open MATLAB.
+3. Edit the contents of the `imageFolder` variable in the `skin_lesion_gan.mlx` file to reflect the path to your selected dataset. 
+4. Run the `skin_lesion_gan.mlx` script and inspect results.
 ## Additional remarks
 
 - You are encouraged to expand and adapt the example to your needs.
